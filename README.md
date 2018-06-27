@@ -1,1 +1,1 @@
-# This is a sample code for Raleigh Auto Rescue email.
+Sample of RAR email and code template.
